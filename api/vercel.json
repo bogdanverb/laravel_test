@@ -1,0 +1,21 @@
+{
+    "version": 2,
+      "framework": null,
+    "functions": {
+        "api/index.php": { "runtime": "vercel-php@0.6.0" }
+    },
+    "routes": [{
+        "src": "/(.*)",
+        "dest": "/api/index.php"
+    }],
+    "env": {
+        "APP_ENV": "production",
+        "APP_DEBUG": "true",
+        "APP_URL": "https://laravel-8t4qf9mvp-bogdanverbs-projects.vercel.app",
+        "APP_KEY": "base64:HumG7pkHtAxEXVqqCeRh45wx39xjaeTq2AjUFS8icMQ=",
+
+        "CACHE_DRIVER": "array",
+        "LOG_CHANNEL": "stderr",
+        "SESSION_DRIVER": "array"
+    }
+}
