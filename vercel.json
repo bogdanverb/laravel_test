@@ -9,7 +9,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://laravel-8t4qf9mvp-bogdanverbs-projects.vercel.app",
+        "APP_URL": "laravel-test-qb1m-osp2sfh2e-bogdanverbs-projects.vercel.app",
         "APP_KEY": "base64:HumG7pkHtAxEXVqqCeRh45wx39xjaeTq2AjUFS8icMQ=",
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
